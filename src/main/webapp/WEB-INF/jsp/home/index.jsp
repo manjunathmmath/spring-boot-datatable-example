@@ -89,7 +89,7 @@
             "fnDrawCallback": function (oSettings) {
             },
             "columns": [
-                {"data": "name"},
+                {"data": "rollNumber"},
                 {"data": "name"},
                 {"data": "cgp"},
                 {"data": ""},

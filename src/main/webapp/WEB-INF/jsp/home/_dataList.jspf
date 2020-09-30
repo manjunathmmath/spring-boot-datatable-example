@@ -1,0 +1,19 @@
+<table id="data-list-table" class="table table-bordered table-hover">
+    <thead>
+    <tr>
+        <th>Roll Number</th>
+        <th>Name</th>
+        <th>CGP</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody></tbody>
+    <tfoot>
+    <tr>
+        <th>Roll Number</th>
+        <th>Name</th>
+        <th>CGP</th>
+        <th>Actions</th>
+    </tr>
+    </tfoot>
+</table>
